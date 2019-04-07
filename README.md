@@ -1,8 +1,8 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [Niflheim]
+Project team:[Sjors, Brecht, Brandon, Thomas, Brett, Abdelaziz, Alex]
 
 Platform:
-[jullie platfom]
+[PC & Mobile]
 
 ### Korte omschrijving van de game
 Een endless runner gebaseerd op 'hel' de noorse mythologische godin van de onderwereld. Verzamel zielen en schiet ze naar de portal/boss.
